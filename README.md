@@ -12,8 +12,8 @@ Connection used in the system and code are mentioned in [`PinConnections-1`](Pin
 * Fingersensor's info: [link](https://electropeak.com/learn/interfacing-fpm10a-as608-optical-fingerprint-reader-sensor-module-with-arduino/)
 
 ## Running the System
-Running the entire system with all parts connected with proper pin connections.
-Run [`SecuritySystem`](Security_System.ino)
+Running the entire system with all parts connected with proper pin connections.<br/>
+Run [`SecuritySystem`](Security_System.ino) on arduino ide after following the above mentioned steps without corresponding pin connections made in the code.
 
 ## Live Demo
 Youtube Link : https://youtu.be/VlwzWIpBG_w
